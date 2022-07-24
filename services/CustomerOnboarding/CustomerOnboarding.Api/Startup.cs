@@ -38,9 +38,7 @@ namespace CustomerOnboarding.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllers();
-            services.AddDbContext<CustomerOnboardingContext>(options => options.UseSqlServer(connectionString: "Data Source=LAPTOP-OKIKVU38;Initial Catalog=CustomerOnBoardingDb;Integrated Security=True"));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CustomerOnboarding.Api", Version = "v1" });

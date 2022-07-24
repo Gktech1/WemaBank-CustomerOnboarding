@@ -90,12 +90,14 @@ C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CustomerOnboarding.Api.pdb
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Azure.Core.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\BCrypt.Net-Core.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\CsvHelper.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -122,6 +124,7 @@ C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Memory.Data.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Net.Http.Json.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
@@ -162,6 +165,3 @@ C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.pdb
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\CustomerOnboarding.Api.genruntimeconfig.cache
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\obj\Debug\net5.0\ref\CustomerOnboarding.Api.dll
-C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Azure.Core.dll
-C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Services\CustomerOnboarding\CustomerOnboarding.Api\bin\Debug\net5.0\System.Memory.Data.dll

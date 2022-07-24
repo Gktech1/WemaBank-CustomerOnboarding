@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CustomerOnboarding.Repository.ExtentionMethods
 {
-    public static class CustomerOnboardingContextExtention
+    public static class CustomerOnboardingContextExtension
     {
         public static void EnsureDataBaseSeeded(this CustomerOnboardingContext context,
             List<State> states, List<LgaDto> lgas)

@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace CustomerOnboarding.ApplicationService.ExtentionMethods
 {
-    public static class ServiceCollectionExtention
+    public static class ServiceCollectionExtension
     {
         public static IServiceCollection AddCustomerOnboardingApplicationService(
             this IServiceCollection services)

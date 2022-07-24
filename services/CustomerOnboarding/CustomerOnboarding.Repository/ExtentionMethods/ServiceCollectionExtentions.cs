@@ -12,13 +12,13 @@ using System.Threading.Tasks;
 
 namespace CustomerOnboarding.Repository.ExtentionMethods
 {
-    public static class ServiceCollectionExtentions
+    public static class ServiceCollectionExtensions
     {
         public static IServiceCollection AddCustomerOnboardingRepositoryServices(
             this IServiceCollection services,IConfiguration configuration)
         {
             services.AddDbContext<CustomerOnboardingContext>(options =>            
-            options.UseSqlServer(configuration["CustomerOnboardingConnectionString"])) ;
+            options.UseSqlServer(configuration.GetConnectionString("CustomerOnboardingConnectionString")));
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
 
             return services;

@@ -150,14 +150,14 @@ C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Test\CustomerOnb
 C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\obj\Debug\net5.0\CustomerOnboarding.ApplicationService.UnitTest.genruntimeconfig.cache
 C:\Users\Decagon\Desktop\Alat\GlobusBankTask-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\obj\Debug\net5.0\ref\CustomerOnboarding.ApplicationService.UnitTest.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\testhost.exe
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\testhost.dll
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\testhost.exe
+C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\nunit.engine.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\nunit.engine.api.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\nunit.engine.core.dll
-C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.UnitTest.deps.json
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.UnitTest.runtimeconfig.json
 C:\Users\Decagon\Desktop\WemaBank-CustomerOnboarding\Test\CustomerOnboarding.ApplicationService.UnitTest\bin\Debug\net5.0\CustomerOnboarding.ApplicationService.UnitTest.runtimeconfig.dev.json
